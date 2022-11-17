@@ -10,3 +10,9 @@ A testbench that validates the correctness of the verilog code is also written.
 The waveforms of all the input signals and the corresponding output signals are also generated.
 
 This project was done in December 2021 as a part of ES203 Digital Systems course at IIT Gandhinagar. It was done in group of two- Ruchit Chudasama (20110172) and Aditi Dey (20110007). 
+
+### Results:
+<img height="400" src="1.png">
+<img height="400" src="2.png">
+<img height="400" src="3.png">
+<img height="400" src="4.png">
