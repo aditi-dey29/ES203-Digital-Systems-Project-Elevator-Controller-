@@ -8,3 +8,5 @@ A Verilog code to implement a parametrized lift controller with N floors. Verilo
                 
 A testbench that validates the correctness of the verilog code is also written.  
 The waveforms of all the input signals and the corresponding output signals are also generated.
+
+This project was done in December 2021 as a part of ES203 Digital Systems course at IIT Gandhinagar. It was done in group of two- Ruchit Chudasama (20110172) and Aditi Dey (20110007). 
