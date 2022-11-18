@@ -1,5 +1,6 @@
 # ES203-Digital-Systems-Project-Elevator-Controller #
-A Verilog code to implement a parametrized lift controller with N floors. Verilog is a hardware description language similar to C used to model electronic systems at various abstraction levels.
+With the advent of an era of staggering range of new technologies to provide ease of mobility and transportation elevators have become an essential component of all high rise buildings. An elevator is a type of vertical transportation that moves people between the floors of a high rise building.
+Verilog HDL helps in automated analysis and simulation of lift controller circuit. This design is based on synchronous input that operates on a fixed frequency. The Lift motion is controlled by means of accepting the destination floor level as input and generate control signal as output. In the proposed design a Verilog RTL code is developed and verified. 
 
 ## Assumptions made ##
 * If the lift is serving requests in one direction (either up or down), it doesn’t change its direction before completing requests in that direction.
